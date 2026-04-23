@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9703393d-92ba-4b23-b0b6-5a1654e6facf",
+  "export_job_id": "496a08c6-a0de-4b92-8a7e-24ca5e9d3847",
   "id_short": 973689,
-  "published_at": "2026-04-19T07:08:45Z",
+  "published_at": "2026-04-23T07:19:29Z",
   "repo_name": "restaurant-verified-email-access-in-alabama-us-sample-973689",
   "sample_asset_name": "beamstation_973689_restaurants-us-al_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/973689/beamstation_973689_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_records": 160,
-  "sample_sha256": "2fb6dae1ff21189583084c0b5a2dee6f05f8500892342f784f9876d399c8b5a0",
-  "sample_size_bytes": 663048,
-  "total_records": 1606
+  "sample_records": 112,
+  "sample_sha256": "857293c5d82730597726f934cdeabca81a4a504fd3f19b0653989c62451d913d",
+  "sample_size_bytes": 466293,
+  "total_records": 1120
 }
